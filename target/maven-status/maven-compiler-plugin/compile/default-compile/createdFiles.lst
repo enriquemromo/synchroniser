@@ -1,0 +1,9 @@
+mx/rfpro/controller/EmployeeJpaController.class
+mx/rfpro/repository/EmployeeRepository.class
+mx/rfpro/SynchroniserJob.class
+mx/rfpro/controller/exceptions/IllegalOrphanException.class
+mx/rfpro/controller/exceptions/PreexistingEntityException.class
+mx/rfpro/model/Employee.class
+mx/rfpro/model/Employee_.class
+mx/rfpro/controller/exceptions/NonexistentEntityException.class
+mx/rfpro/App.class

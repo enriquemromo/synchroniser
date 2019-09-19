@@ -1,0 +1,8 @@
+/Users/rfprodeveloper/Projects/synchroniser/src/main/java/mx/rfpro/controller/exceptions/NonexistentEntityException.java
+/Users/rfprodeveloper/Projects/synchroniser/src/main/java/mx/rfpro/controller/EmployeeJpaController.java
+/Users/rfprodeveloper/Projects/synchroniser/src/main/java/mx/rfpro/controller/exceptions/IllegalOrphanException.java
+/Users/rfprodeveloper/Projects/synchroniser/src/main/java/mx/rfpro/model/Employee.java
+/Users/rfprodeveloper/Projects/synchroniser/src/main/java/mx/rfpro/SynchroniserJob.java
+/Users/rfprodeveloper/Projects/synchroniser/src/main/java/mx/rfpro/repository/EmployeeRepository.java
+/Users/rfprodeveloper/Projects/synchroniser/src/main/java/mx/rfpro/App.java
+/Users/rfprodeveloper/Projects/synchroniser/src/main/java/mx/rfpro/controller/exceptions/PreexistingEntityException.java
